@@ -1,0 +1,6 @@
+README
+
+I chaned the threshold value, the minLineLength value, and the maxLineGap value at the part of "Build a Lane Finding Pipeline."
+The threshold increases from 25 to 50.
+The minLineLength increases from 60 to 100.
+The maxLineGap decreases from 200 to 160.
